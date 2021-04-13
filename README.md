@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm P Nunmuthu </h1>
+<h1 align="center">Hi 👋, I'm Nunmuthu </h1>
 <h3 align="center">A passionate MEAN/MERN stack developer passionate to work in challenging environment....</h3>
 
 Here are some ideas to get you started:
